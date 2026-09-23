@@ -5,7 +5,7 @@ Model was trained on 65,000 files(Original dataset contains around 170k files), 
 
 ## Basic Rag Application:
 Notebook: <a> https://www.kaggle.com/code/sourav32/task-1-1-rag </a> <br><br>
-**Workflow Diagram:** <br>
+**Workflow Diagram:**  https://excalidraw.com/#json=qbi6rdrmlReF7uCeNFfgt,iHaTwOCr8LkDuFKcFZ-SvQ <br>
 <img width="771" height="281" alt="image" src="https://github.com/user-attachments/assets/a7574917-7161-4083-80d4-6876ec020bb8" />
 
 **Output**: 
